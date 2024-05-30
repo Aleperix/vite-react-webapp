@@ -1,0 +1,7 @@
+#profile-dropdown {
+    width: 40px;
+    height: 40px;
+}
+#profile-dropdown::after {
+    display: none !important;
+}

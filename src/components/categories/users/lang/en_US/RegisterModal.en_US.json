@@ -1,0 +1,38 @@
+{
+	"registerTitle": "Register",
+	"label": {
+		"username": "Username",
+		"email": "Email",
+		"confirmEmail": "Confirm",
+		"firstName": "First Name",
+		"lastName": "Last Name",
+		"password": "Password",
+		"confirmPassword": "Confirm",
+		"country": "Country",
+		"state": "State"
+	},
+	"input": {
+		"username": "E.g: myusername",
+		"email": "E.g: myusername@email.com",
+		"firstName": "E.g: John",
+		"lastName": "E.g: Smith",
+		"password": "E.g: ****",
+		"country": "Select your country",
+		"state": "Select your state"
+	},
+	"success": {
+		"title": "Success",
+		"user": "User",
+		"created": "created"
+	},
+	"errors": {
+		"title": "Error",
+		"required": "* Required Field",
+		"confirmEmail": "Emails must match",
+		"confirmPassword": "Passwords must match",
+		"passwordTooShort": "The password is too short",
+		"unexpected": "Unexpected error!"
+	},
+	"closeButton": "Cancel",
+	"submitButton": "Send"
+}

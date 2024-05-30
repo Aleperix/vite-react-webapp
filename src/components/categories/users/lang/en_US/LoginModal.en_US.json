@@ -1,0 +1,24 @@
+{
+	"loginTitle": "Login",
+	"label": {
+		"usernameOrEmail": "Username or Email",
+		"password": "Password"
+	},
+	"input": {
+		"usernameOrEmail": "E.g: myusername or myusername@email.com",
+		"password": "E.g: ****"
+	},
+	"success": {
+		"title": "Success",
+		"hi": "Hi"
+	},
+	"errors": {
+		"title": "Error",
+		"required": "* Required Field",
+		"passwordTooShort": "The password is too short",
+		"incorrectCredentials": "Incorrect username or password!",
+		"unexpected": "Unexpected error!"
+	},
+	"closeButton": "Cancel",
+	"submitButton": "Send"
+}

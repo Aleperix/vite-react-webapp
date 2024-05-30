@@ -1,0 +1,11 @@
+{
+	"guest": {
+		"signin": "Login",
+		"signup": "Register"
+	},
+	"user": {
+		"profile": "Profile",
+		"configuration": "Configuration",
+		"logout": "Logout"
+	}
+}

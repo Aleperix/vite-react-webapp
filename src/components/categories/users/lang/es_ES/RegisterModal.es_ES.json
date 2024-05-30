@@ -1,0 +1,38 @@
+{
+	"registerTitle": "Registro",
+	"label": {
+		"username": "Usuario",
+		"email": "Correo",
+		"confirmEmail": "Confirmar",
+		"firstName": "Nombre",
+		"lastName": "Apellido",
+		"password": "Contraseña",
+		"confirmPassword": "Confirmar",
+		"country": "País",
+		"state": "Estado"
+	},
+	"input": {
+		"username": "Ej: miusuario",
+		"email": "Ej: miusuario@correo.com",
+		"firstName": "Ej: John",
+		"lastName": "Ej: Smith",
+		"password": "Ej: ****",
+		"country": "Seleccione su país",
+		"state": "Seleccione su estado"
+	},
+	"success": {
+		"title": "Correcto",
+		"user": "Usuario",
+		"created": "creado"
+	},
+	"errors": {
+		"title": "Error",
+		"required": "* Campo Obligatorio",
+		"confirmEmail": "Los correos deben coincidir",
+		"confirmPassword": "Las contraseñas deben coincidir",
+		"passwordTooShort": "La contraseña es demasiado corta",
+		"unexpected": "¡Error inesperado!"
+	},
+	"closeButton": "Cancelar",
+	"submitButton": "Enviar"
+}

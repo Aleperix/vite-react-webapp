@@ -1,0 +1,24 @@
+{
+	"loginTitle": "Iniciar Sesión",
+	"label": {
+		"usernameOrEmail": "Usuario o Correo",
+		"password": "Contraseña"
+	},
+	"input": {
+		"usernameOrEmail": "Ej: miusuario o miusuario@correo.com",
+		"password": "Ej: ****"
+	},
+	"success": {
+		"title": "Correcto",
+		"hi": "Hola"
+	},
+	"errors": {
+		"title": "Error",
+		"required": "* Campo Obligatorio",
+		"passwordTooShort": "La contraseña es demasiado corta",
+		"incorrectCredentials": "¡Usuario o contraseña incorrectos!",
+		"unexpected": "¡Error inesperado!"
+	},
+	"closeButton": "Cancelar",
+	"submitButton": "Enviar"
+}
